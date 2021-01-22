@@ -1,0 +1,2 @@
+# Sigmoidal
+ciência de dados 
